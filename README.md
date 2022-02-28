@@ -41,7 +41,7 @@ https://visualstudio.microsoft.com/fr/vs/
   
 Now you just have to download the source code and launch the main .py and then follow the instructions :)
 
-<h1>Summary of Ares
+<h1>Summary of Ares</h1>
   
 It's very simple it uses **Nuitka** to compile your .exe file and adds several layers of obfuscator like **Pyarmor**. That's all and for the damn sum of 30$ loool
 
