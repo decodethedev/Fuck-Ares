@@ -10,8 +10,8 @@ https://www.youtube.com/watch?v=7NeO0dCW2-E&t=64s
 - [ ] Add extern folder or file
 - [x] Anti ctrl + c
 - [ ] Anti Virtual Machine
-- [ ] Anti Debugger
-- [ ] Anti Network traffic
+- [x] Anti Debugger
+- [x] Anti Network traffic
 - [x] Hidden Console
 - [x] Forced to run the program in Administrateu
 
