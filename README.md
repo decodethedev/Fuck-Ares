@@ -2,6 +2,8 @@
 
 Hi **Venax**! As you can see, I'm recreating your crappy tools. I still don't understand how you can sell this crap for 30$ when you just use Nuitka and on top of that layers of obfuscator when Nuitka does the job very well. You are really pathetic and I don't understand how you can sell crap like this to people and at a very high price when 70% of the project is not you. The worst thing is that you think you are good at programming when you are nothing. On that note, I'll recreate all your projects for free :).
 
+https://www.youtube.com/watch?v=7NeO0dCW2-E&t=64s
+
 - [x] Compiling by Nuitka
 - [x] Input python file
 - [x] Add icon file
